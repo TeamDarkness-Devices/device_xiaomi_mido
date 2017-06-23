@@ -145,8 +145,8 @@
             7 - Turn screen off
             8 - Last app
          This needs to match the constants in
-         services/core/java/com/android/server/policy/PhoneWindowManager.java
-    -->
+         services/core/java/com/android/server/policy/PhoneWindowManager.java 
+    -->    
     <integer name="config_longPressOnAppSwitchBehavior">1</integer>
 
     <!-- Wifi driver supports batched scan -->
