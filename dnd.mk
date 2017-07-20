@@ -17,6 +17,9 @@
 
 $(call inherit-product, device/xiaomi/mido/full_mido.mk)
 
+# Magisk
+WITH_ROOT=true
+
 # Inherit some common DarkNess reDefined stuff.
 $(call inherit-product, vendor/dnd/config/common_full_phone.mk)
 
