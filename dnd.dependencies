@@ -1,13 +1,13 @@
 [
   {
-    "repository":  "AKabhishek/vendor_xiaomi",
+    "repository":  "TeamDarkness-Devices/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch":      "n-mr2"
+    "branch":      "cm-14.1
   },
   {
-    "repository":  "AKabhishek/kernel_xiaomi_msm8953",
+    "repository":  "TeamDarkness-Devices/kernel_xiaomi_msm8953",
     "target_path": "kernel/xiaomi/msm8953",
-    "branch":      "nucleon"
+    "branch":      "cm-14.1"
   },
   { 
     "repository":  "ThankYouMario/proprietary_vendor_qcom_sdclang-3.8_linux-x86",
