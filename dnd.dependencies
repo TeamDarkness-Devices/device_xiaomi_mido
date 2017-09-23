@@ -1,0 +1,14 @@
+[
+ {
+   "remote": "github",
+   "repository": "thp1997/android_kernel_xiaomi_msm8953",
+   "target_path": "kernel/xiaomi/msm8953",
+   "branch":      "lineage-15.0"
+ },
+  {
+    "remote": "github",
+    "repository":  "thp1997/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "lineage-15.0"
+  }
+]
